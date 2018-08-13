@@ -16,14 +16,14 @@ And run
     $ php artisan migrate
 
 ## How to Install
-Require this package with composer ([Packagist](https://packagist.org/packages/efriandika/laravel-settings)) using the following command:
+Require this package with composer ([Packagist](https://packagist.org/packages/dkvhin/laravel-settings)) using the following command:
 
-    composer require efriandika/laravel-settings
+    composer require dkvhin/laravel-settings
 
 or modify your `composer.json`:
    
        "require": {
-          "efriandika/laravel-settings": "1.*"
+          "dkvhin/laravel-settings": "1.*"
        }
        
 then run `composer update`:
