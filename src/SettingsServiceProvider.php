@@ -1,4 +1,4 @@
-<?php namespace Efriandika\LaravelSettings;
+<?php namespace Dkvhin\LaravelSettings;
 
 use Illuminate\Support\ServiceProvider;
 

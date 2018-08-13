@@ -1,8 +1,8 @@
-<?php namespace Efriandika\LaravelSettings;
+<?php namespace Dkvhin\LaravelSettings;
 
 /**
  * Class Cache
- * @package Efriandika\LaravelSettings
+ * @package Dkvhin\LaravelSettings
  */
 class Cache
 {

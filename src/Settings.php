@@ -1,11 +1,11 @@
-<?php namespace Efriandika\LaravelSettings;
+<?php namespace Dkvhin\LaravelSettings;
 
 use Illuminate\Database\DatabaseManager;
 use Illuminate\Support\Facades\Config;
 
 /**
  * Class Settings
- * @package Efriandika\LaravelSettings
+ * @package Dkvhin\LaravelSettings
  */
 class Settings
 {
@@ -28,7 +28,7 @@ class Settings
     /**
      * Cache
      *
-     * @var \Efriandika\LaravelSettings\Cache
+     * @var \Dkvhin\LaravelSettings\Cache
      */
     protected $cache;
 
