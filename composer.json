@@ -1,5 +1,5 @@
 {
-    "name": "efriandika/laravel-settings",
+    "name": "seirim/laravel-settings",
     "description": "Laravel 5 Persistent Settings",
     "keywords": [
         "laravel",
@@ -11,6 +11,10 @@
         {
             "name": "Efriandika Pratama",
             "email": "efriandika@gmail.com"
+        },
+        {
+            "name": "Ervin Musngi",
+            "email": "dkvhin@outlook.com"
         }
     ],
     "require": {
